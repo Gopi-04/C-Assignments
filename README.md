@@ -1,2 +1,2 @@
 # MY C Assignments-
-C ASSIGNMENT(DAY-1)
+C ASSIGNMENTS
